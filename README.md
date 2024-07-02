@@ -1,0 +1,2 @@
+# Fitness Exercise App
+Welcome to the Fitness Exercise App! This application is designed to help users achieve their fitness goals by providing a wide range of exercises, personalized workout plans, and progress tracking features. Whether you are a beginner looking to start your fitness journey or an experienced athlete aiming to improve your performance, our app offers the tools and guidance you need to stay motivated and reach your goals. Get ready to transform your fitness routine with ease and efficiency!
